@@ -2,12 +2,13 @@
   background-color: rgb(214,226,252);
 }
 section{
-  
+  height: 20vh;
+  width: 20vw;
 }
 wpp{
   width: 40px;
   height: 40px;
 }
 a{
-  
+  color: cyan;
 }
