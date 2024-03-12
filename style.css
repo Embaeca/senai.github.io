@@ -6,13 +6,8 @@ section{
   width: 20vw;
   background-color: deeppink;
 }
-ft{
-  width: 300px;
-  height: 300px;
-}
-wpp{
-  width: 40px;
-  height: 40px;
+div{
+  background: white;
 }
 a{
   color: cyan;
