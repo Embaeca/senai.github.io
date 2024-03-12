@@ -2,11 +2,13 @@
   background-color: rgb(214,226,252);
 }
 section{
-  height: 20vh;
-  width: 20vw;
+  height: 100px
+  width: 100px;
   background-color: deeppink;
 }
 div{
+  width: 60px;
+  height: 80px;
   background: white;
 }
 a{
